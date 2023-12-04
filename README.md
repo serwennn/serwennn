@@ -1,11 +1,11 @@
 # Қайырлы таң, досым! ☀️
-Мен туралы бірнеше факт:
+Мен туралы бірнеше демек:
 - ⚙️・Мен әзірлеушім. (C# & Python)
 - ☕・Бос уақытта сурет салуға тырысамын.
 - 🗾・Жапонияда тұруды жоспарлап отырмын.
 <br/>
 
-**Менің аккаунттар және Білім стекі:**
+**Аккаунтарым және Білім стегім:**
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1097931271130325012)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://seltfox.itch.io/)
